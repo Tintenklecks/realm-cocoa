@@ -55,3 +55,6 @@ public typealias PropertyType = RLMPropertyType
  - see: `Realm.observe(_:)`
  */
 public typealias NotificationToken = RLMNotificationToken
+
+public typealias Decimal128 = RLMDecimal128
+public typealias ObjectId = RLMObjectId
